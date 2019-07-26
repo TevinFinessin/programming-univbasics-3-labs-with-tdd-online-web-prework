@@ -1,3 +1,3 @@
 # Add your variables here
-def first_number = '-1'
-def second_number = '2'
+puts first_number = '-1'
+puts second_number = '2'
